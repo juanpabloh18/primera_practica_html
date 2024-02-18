@@ -1,3 +1,8 @@
+.container {
+    text-align: center;
+}
+
 #imagen_portafolio {
     border-radius: 50%;
+    margin: auto;
 }
