@@ -1,8 +1,19 @@
-.container {
-    text-align: center;
-}
-
-#imagen_portafolio {
-    border-radius: 50%;
-    margin: auto;
-}
+        .container {
+            text-align: center;
+        }
+        
+        img {
+            border-radius: 50%;
+            margin: auto;
+        }
+        
+        input[type="text"],
+        input[type="email"],
+        textarea {
+            display: block;
+            margin-bottom: 10px;
+        }
+        
+        textarea {
+            width: 50%;
+        }
